@@ -8,6 +8,7 @@ namespace CircularQueue.Tests
 {
     // Summary
     // Test class for the CicularQueue class.
+    // Test
     public class CircularQueueTests
     {
         private CircularQueue<int> queue;

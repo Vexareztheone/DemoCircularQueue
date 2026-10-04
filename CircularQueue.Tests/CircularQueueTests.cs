@@ -6,6 +6,8 @@ using NUnit.Framework;
 
 namespace CircularQueue.Tests
 {
+    // Summary
+    // Test class for the CicularQueue class.
     public class CircularQueueTests
     {
         private CircularQueue<int> queue;
